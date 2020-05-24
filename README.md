@@ -4,7 +4,7 @@ Convert [Caffe](https://github.com/BVLC/caffe/) models to [TensorFlow](https://g
 
 ## Usage
 
-Run `convert.py` to convert an existing Caffe model to TensorFlow.
+Run `convert.ps1` to convert an existing Caffe model to TensorFlow.
 
 Make sure you're using the latest Caffe format (see the notes section for more info).
 
